@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RSV-Forecast/static/css/main.3143d984.css",
+    "main.js": "/RSV-Forecast/static/js/main.43ae3659.js",
+    "static/js/787.ea36122e.chunk.js": "/RSV-Forecast/static/js/787.ea36122e.chunk.js",
+    "index.html": "/RSV-Forecast/index.html",
+    "main.3143d984.css.map": "/RSV-Forecast/static/css/main.3143d984.css.map",
+    "main.43ae3659.js.map": "/RSV-Forecast/static/js/main.43ae3659.js.map",
+    "787.ea36122e.chunk.js.map": "/RSV-Forecast/static/js/787.ea36122e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3143d984.css",
+    "static/js/main.43ae3659.js"
+  ]
+}
